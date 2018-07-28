@@ -1,0 +1,7 @@
+Title: Reinforcement Learning Tutorial: Semi-gradient n-step Sarsa and Sarsa(λ) Theory and Implementation
+Slug: RL-tutorial
+Date: 2018-03-14 20:00
+Category: Tutorials
+Tags: Reinforcement Learning Tutorial Machine Learning A.I Monte Carlo TD Sarsa Eligibility Traces Bootstrapping Python
+author: Michael O'Neill
+Summary: Theory behind and implementation of the n-step Sarsa and Sarsa(lambda) RL algorithms, including experiments that compare the two.
